@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/handle-inputs-and-render-lists/static/css/main.1f1ebcc0.css",
+    "main.js": "/handle-inputs-and-render-lists/static/js/main.6692a27f.js",
+    "index.html": "/handle-inputs-and-render-lists/index.html",
+    "main.1f1ebcc0.css.map": "/handle-inputs-and-render-lists/static/css/main.1f1ebcc0.css.map",
+    "main.6692a27f.js.map": "/handle-inputs-and-render-lists/static/js/main.6692a27f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f1ebcc0.css",
+    "static/js/main.6692a27f.js"
+  ]
+}
